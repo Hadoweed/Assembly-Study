@@ -1,5 +1,5 @@
 
-# Exercícios e Projetos em Assembly
+# Descrição dos exercícios
 
 Este repositório contém uma coleção de exercícios e projetos em Assembly, organizados por nível de dificuldade. Os níveis são classificados como Básico, Intermediário e Avançado.
 
