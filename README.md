@@ -1,46 +1,50 @@
 
-
 # Exercícios e Projetos em Assembly
 
-Este repositório contém uma coleção de exercícios e projetos em Assembly, organizados em pastas nomeadas de acordo com o formato "número - nome". Eles vão do básico ao avançado e cobrem uma variedade de tópicos e conceitos em Assembly.
+Este repositório contém uma coleção de exercícios e projetos em Assembly, organizados por nível de dificuldade. Os níveis são classificados como Básico, Intermediário e Avançado.
 
 ## Estrutura do Repositório
 
 ```
 .
-├── 01 - Hello World
-├── 02 - Soma de Números
-├── 03 - Contador Simples
-├── 04 - Fatorial de um Número
-├── 05 - Verificação de Paridade
-├── 06 - Inversão de String
-├── 07 - Ordenação de Array
-├── 08 - Busca em Array
-├── 09 - Cálculo de Máximo Divisor Comum
-├── 10 - Conversão de Decimal para Binário
-├── 11 - Multiplicação de Matrizes
-├── 12 - Manipulação de Bits
-├── 13 - Stack e Funções
-├── 14 - Gerenciamento de Memória
-├── 15 - Implementação de Função Matemática
-├── 16 - Cálculo de Fibonacci
-├── 17 - Conversão de Binário para Decimal
-├── 18 - Operações Aritméticas Básicas
-├── 19 - Impressão de Tabela de Multiplicação
-├── 20 - Contador de Caracteres em String
-├── 21 - Verificação de Palíndromo
-├── 22 - Cálculo da Soma dos Dígitos
-├── 23 - Troca de Valores
-├── 24 - Geração de Números Aleatórios
-├── 25 - Leitura e Escrita em Arquivo
-├── 26 - Editor de Texto Simples
-├── 27 - Jogo da Velha
-├── 28 - Simulador de Calculadora
-├── 29 - Gerenciador de Contas Bancárias
-└── 30 - Emulador de Máquina de Turing
+├── Básico
+│   ├── 01 - Hello World
+│   ├── 02 - Soma de Números
+│   ├── 03 - Contador Simples
+│   ├── 04 - Fatorial de um Número
+│   ├── 05 - Verificação de Paridade
+│   ├── 06 - Inversão de String
+│   └── 07 - Cálculo de Máximo Divisor Comum
+├── Intermediário
+│   ├── 08 - Ordenação de Array
+│   ├── 09 - Busca em Array
+│   ├── 10 - Conversão de Decimal para Binário
+│   ├── 11 - Multiplicação de Matrizes
+│   ├── 12 - Manipulação de Bits
+│   ├── 13 - Stack e Funções
+│   ├── 14 - Gerenciamento de Memória
+│   └── 15 - Implementação de Função Matemática
+└── Avançado
+    ├── 16 - Cálculo de Fibonacci
+    ├── 17 - Conversão de Binário para Decimal
+    ├── 18 - Operações Aritméticas Básicas
+    ├── 19 - Impressão de Tabela de Multiplicação
+    ├── 20 - Contador de Caracteres em String
+    ├── 21 - Verificação de Palíndromo
+    ├── 22 - Cálculo da Soma dos Dígitos
+    ├── 23 - Troca de Valores
+    ├── 24 - Geração de Números Aleatórios
+    ├── 25 - Leitura e Escrita em Arquivo
+    ├── 26 - Editor de Texto Simples
+    ├── 27 - Jogo da Velha
+    ├── 28 - Simulador de Calculadora
+    ├── 29 - Gerenciador de Contas Bancárias
+    └── 30 - Emulador de Máquina de Turing
 ```
 
 ## Descrição dos Exercícios
+
+### Básico
 
 - **01 - Hello World**: Exibe "Hello, World!" na tela.
 - **02 - Soma de Números**: Lê dois números inteiros e exibe a soma deles.
@@ -48,15 +52,21 @@ Este repositório contém uma coleção de exercícios e projetos em Assembly, o
 - **04 - Fatorial de um Número**: Calcula o fatorial de um número fornecido pelo usuário.
 - **05 - Verificação de Paridade**: Verifica se um número é par ou ímpar.
 - **06 - Inversão de String**: Inverte uma string fornecida pelo usuário.
-- **07 - Ordenação de Array**: Ordena um array de inteiros usando o método Bubble Sort.
-- **08 - Busca em Array**: Busca um número específico em um array e informa a posição onde foi encontrado.
-- **09 - Cálculo de Máximo Divisor Comum**: Calcula o máximo divisor comum de dois números inteiros.
+- **07 - Cálculo de Máximo Divisor Comum**: Calcula o máximo divisor comum de dois números inteiros.
+
+### Intermediário
+
+- **08 - Ordenação de Array**: Ordena um array de inteiros usando o método Bubble Sort.
+- **09 - Busca em Array**: Busca um número específico em um array e informa a posição onde foi encontrado.
 - **10 - Conversão de Decimal para Binário**: Converte um número decimal fornecido pelo usuário para binário.
 - **11 - Multiplicação de Matrizes**: Multiplica duas matrizes 2x2 e exibe o resultado.
 - **12 - Manipulação de Bits**: Realiza operações AND, OR, XOR e deslocamentos em um número inteiro.
 - **13 - Stack e Funções**: Utiliza a pilha para chamar e retornar de funções.
 - **14 - Gerenciamento de Memória**: Aloca e libera memória dinamicamente e trabalha com ponteiros.
 - **15 - Implementação de Função Matemática**: Implementa funções matemáticas básicas usando tabelas de valores pré-calculados.
+
+### Avançado
+
 - **16 - Cálculo de Fibonacci**: Gera e exibe a sequência de Fibonacci até um determinado número de termos.
 - **17 - Conversão de Binário para Decimal**: Converte um número binário fornecido pelo usuário para decimal.
 - **18 - Operações Aritméticas Básicas**: Realiza operações básicas entre dois números inteiros.
@@ -82,3 +92,4 @@ Este repositório contém uma coleção de exercícios e projetos em Assembly, o
 ## Contribuições
 
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request se você encontrar erros ou tiver sugestões de melhorias.
+

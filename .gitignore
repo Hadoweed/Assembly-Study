@@ -1,2 +1,5 @@
 .vscode
 Anotações.md
+
+*.exe
+*.obj
